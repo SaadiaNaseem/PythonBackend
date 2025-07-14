@@ -179,16 +179,3 @@ For Internship Project at **InfoTech Solutions**
 This project is licensed under the [MIT License](LICENSE)
 
 ````
-
----
-
-### ✅ Next Step:
-
-1. Paste this in your GitHub project as `README.md`
-2. Run:
-
-```bash
-git add README.md
-git commit -m "docs: added professional README"
-git push
-````
