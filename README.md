@@ -1,10 +1,3 @@
-Absolutely bro! Here's your **ready-to-copy professional `README.md`** file for your project — complete and formatted for GitHub.
-
----
-
-### ✅ Copy everything below and paste it into a `README.md` file:
-
-```markdown
 # 💼 InfoTech Job Application Portal
 
 A full-stack job application system built with **React (frontend)** and **Flask (backend)**. Applicants can submit their personal information, upload resumes, and get a success confirmation — all connected with a live backend API.
